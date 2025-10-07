@@ -1,10 +1,10 @@
 # 👋 Hi, I’m Danielle Nogueira Lopes
 
-Forest Conservation and Management 🌳 | Environmental Scientist
+Forest Conservation and Management 🌳 | Satellite Data Analysis Engineer
 
 ## 🌍 About Me
 
-Geospatial environmental scientist with strong expertise in satellite-based remote sensing applications for forest conservation and management. Background in environmental science and forest engineering.
+I have strong expertise in satellite-based remote sensing applications for forest conservation and management. Background in environmental science and forest engineering.
 
 ## 🚀 Interests
 

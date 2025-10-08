@@ -1,6 +1,6 @@
 # 👋 Hi! I’m Danielle Nogueira Lopes, Ph.D.
 
-Forest Conservation and Management 🌳 | Satellite Data Analysis Engineer
+Forest Conservation and Management 🌳 | Satellite Data Analysis Engineer 🛰️
 
 ## 🌍 About Me
 

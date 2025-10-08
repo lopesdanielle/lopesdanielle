@@ -4,7 +4,8 @@ Forest Conservation and Management 🌳 | Satellite Data Analysis Engineer 🛰�
 
 ## 🌍 About Me
 
-I have strong expertise in satellite-based remote sensing applications for forest conservation and management. Background in environmental science and forest engineering.
+I have strong expertise in satellite-based remote sensing applications for forest conservation and management, particularly in tropical forests. 
+Background in environmental science and forest engineering.
 
 **Organization:** [Archeda, inc.](https://archeda.inc/)
 
